@@ -1,4 +1,4 @@
-#Stock Price Prediction using LSTM
+# Stock Price Prediction using LSTM
 📌 Overview
 
 This project predicts stock prices using a deep learning model called Long Short-Term Memory (LSTM). It analyzes historical stock data to learn patterns and forecast future prices. The model is trained on past data and evaluated by comparing predicted values with actual stock prices.
